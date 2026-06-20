@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Theoterra Pitray Wongkar</h1>
 
 <p align="center">
-  A professional with expertise in web development, network administration, digital marketing management, and creative content creation. I also run a biotechnology-based aquaculture business.
+  A professional in software engineering and network engineering. I also run a biotechnology-based aquaculture business.
 </p>
 
 <p align="center">
-    <a href="https://theowongkar.info">
+    <a href="https://theowongkar.vercel.app">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Theo Wongkar" />
     </a>
     <a href="https://github.com/theowongkar">
@@ -44,11 +44,11 @@
 
 ## 👤 About
 
-I'm Theoterra Pitray Wongkar, a professional with expertise in web development, network administration, digital marketing management, and creative content creation. I also run a biotechnology-based aquaculture business. My combination of technical skills and entrepreneurial spirit makes me adaptable, collaborative, and always ready to face challenges across various industries.
+I am Theoterra Pitray Wongkar, a professional in software engineering and network engineering. I also run a biotechnology-based aquaculture business. This combination of technical skills and an entrepreneurial spirit makes me adaptable, collaborative, and always ready to tackle challenges across various industries.
 
 ## 💼 Work Experience
 
-### Full Stack Web Developer, Freelance
+### Software Engineer, Freelance
 
 - User interface creation.
 - Application and server logic management, API integration, database design and management.
@@ -85,7 +85,7 @@ I'm Theoterra Pitray Wongkar, a professional with expertise in web development, 
 ### Bachelor's Degree in Informatics Engineering, Sam Ratulangi University
 
 - GPA: 3.68
-- Related Courses: Web Programming, Semantic Web, Cybersecurity, Networking and Communication Data, Database Technology, Computer Architecture and Organization, Algorithms and Programming.
+- Related Courses: Web Programming, Semantic Web, Cybersecurity, Data Networks and Communication, Database Technology, Computer Architecture and Organization, Algorithms and Programming.
 
 ### Computer and Network Engineering, SMKN 6
 
@@ -94,24 +94,24 @@ I'm Theoterra Pitray Wongkar, a professional with expertise in web development, 
 
 ## 💡 Skills
 
-- **Web Programming**: HTML, CSS, JavaScript, TypeScript, PHP, C++, Laravel, Node JS, React JS, Next JS, Alpine JS, Tailwind CSS, Bootstrap, Material UI, ShadCN, Framer Motion, MySQL PostgreSQL, Git, GitHub, REST API.
-- **Network Administration**: TCP/IP, Subnetting, Routing, Troubleshooting, Basic FO Handling.
-- **Digital Assistant**: Microsoft Office, Administrative Support, Digital Services Troubleshooting.
-- **Digital Marketing**: Video Industry, Videography, Photography, Capcut, Canva, Corel Draw.
-- **Human Resources**: Microsoft Office, Data Entry & Reporting, Capcut, Canva, Corel Draw.
-- **Aquaculture**: Water Quality Management (pH, DO, temperature), Sampling and Monitoring Growth, Aquaculture Production Recording, Sales and Marketing.
-- **Languages**: Indonesian (Fluent), English (Basic).
+- **Software Development**: HTML, CSS, JavaScript, TypeScript, PHP, C++, Laravel, Node.js, React.js, Next.js, Alpine.js, Tailwind CSS, Bootstrap, Material UI, Shadcn/ui, Framer Motion, MySQL, PostgreSQL, Git, GitHub, Postman, REST API, SDLC, Authentication & Authorization, Testing.
+- **Network Engineering**: TCP/IP, Subnetting, Routing, MikroTik, Starlink, Troubleshooting, Basic Fiber Optic Handling, CCTV.
+- **Digital Marketing**: Videography, Photography, CapCut, Canva, CorelDraw.
+- **Digital Assistant**: Microsoft Office, Administrative Support, Digital Service Troubleshooting.
+- **Human Resources**: CV Screening, Data Entry & Reporting, KPI Monitoring.
+- **Aquaculture**: Water Quality Management (pH, DO, temperature), Sampling and Growth Monitoring, Aquaculture Production Record-keeping, Sales and Marketing.
+  Languages: Indonesian (Fluent), English (Basic).
 
 ## 🏅 Certificate
 
 - PT. Bank Negara Indonesia (Persero) Tbk - Sertifikat Internship 2026.
 - Udemy - Sertifikat Penyelesaian HTML, CSS, dan JavaScript: Pemula Sampai Mahir 2025.
 - Udemy - Sertifikat Penyelesaian Git: Pemula Sampai Mahir 2025.
-- BPSDM - Kewirausahaan Digital Dasar Digital Entrepreneurship Academy 2024.
 - PT. Meares Soputan Mining - Sertifikat Internship 2024.
+- BPSDM Kominfo - Kewirausahaan Digital Dasar Digital Entrepreneurship Academy 2024.
 - Belmawa - Kewirausahaan Mahasiswa Indonesia (KMI) Expo XIV 2023.
 - Belmawa - Indonesian Student Entrepreneur Camp (ISEC) 2023.
-- Solo Learn - Course Sertificate C++ 2021.
+- Solo Learn - Course Certificate C++ 2021.
 - PT. Telkom Indonesia (Persero) Tbk - Sertifikat Internship 2020.
 
 </details>
@@ -121,20 +121,20 @@ I'm Theoterra Pitray Wongkar, a professional with expertise in web development, 
 
 ## 🚧 Projects
 
-- **Gunting Batu Kertas**: Website game gunting, batu, kertas untuk hiburan dan mengenang masa kecil.
-- **Sangihe Trip**: Website untuk mempromosikan potensi pariwisata kabupaten Sangihe secara luas.
-- **Manajemen UMKM Wanea**: Website untuk sistem manajemen UMKM.
-- **BPPD Sulut**: Website untuk mempromosikan potensi pariwisata Sulawesi Utara secara luas.
-- **Inspeksi Alat Berat**: Website untuk melakukan inspeksi kelayakan alat berat secara digital.
-- **Stok BPS Sulut**: Website untuk menyederhanakan manajemen inventaris di gudang dan agensi.
-- **Notulen BPS Sulut**: Website untuk sistem pencatatan notulen rapat.
-- **PKM Mapalus Siaga**: Kegiatan tentang kesehatan mental, mitigasi bencana, dan BHD publik.
-- **Elapor DP3A Sulut**: Website untuk sistem informasi pelaporan kekerasan terhadap anak.
-- **SIG GMAHK Kamanga**: Website untuk sistem informasi gereja.
-- **Absensi Polda Sulut**: Website untuk sistem informasi karyawan dan absensi.
-- **Koperasi Toka Tindung**: Aplikasi kasir berbasis Microsoft Excel VBA untuk Koperasi.
-- **3RD Floor Cafe & Resto**: Produksi konten promosi untuk 3RD Floor Cafe & Resto, Manado.
-- **Baby JCD Ice Cream**: Produksi konten promosi untuk Baby JCD Ice Cream, Manado.
+- **Gunting Batu Kertas**: Rock Paper Scissors website game for entertainment and nostalgic childhood memories.
+- **Manajemen UMKM Wanea**: Website for small and medium enterprise (SME) management system.
+- **Sangihe Trip**: Website that helps tourists efficiently organize and manage travel itineraries.
+- **BPPD Sulut**: Website designed to promote the tourism potential of North Sulawesi to a wider audience.
+- **Inspeksi Alat Berat**: Website for conducting digital heavy equipment inspection and feasibility assessments.
+- **Stok BPS Sulut**: Website that streamlines inventory management for warehouses and government agencies.
+- **Notulen BPS Sulut**: Website for meeting minutes recording and management system.
+- **PKM Mapalus Siaga**: Community service program focused on adolescent mental health, disaster mitigation, and public basic life support (BLS) education.
+- **Elapor DP3A Sulut**: Website for child violence reporting and case management information system.
+- **SIG GMAHK Kamanga**: Website for church information management system.
+- **Absensi Polda Sulut**: Website for employee management and attendance information system.
+- **Koperasi Toka Tindung**: Point-of-sale (POS) application developed using Microsoft Excel VBA for cooperative business operations.
+- **3RD Floor Cafe & Resto**: Promotional content production for 3RD Floor Cafe & Resto, Manado.
+- **Baby JCD Ice Cream**: Promotional content production for Baby JCD Ice Cream, Manado.
 
 </details>
 
